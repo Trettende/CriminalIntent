@@ -8,4 +8,5 @@
     <string name="first_crime_text">Go to First</string>
     <string name="last_crime_text">Go to Last</string>
     <string name="date_picker_title">Date of crime:</string>
+    <string name="time_picker_title">Time of crime:</string>
 </resources>
